@@ -70,12 +70,13 @@ Available options:
 ## Related projects
 
 - GitHub CLI <https://cli.github.com>
-- Grip <https://github.com/joeyespo/grip>
-- github-markdown-css <https://github.com/sindresorhus/github-markdown-css>
+- <https://github.com/MarketingIQ>
+  github-markdown-css <https://user-images.githubusercontent.com/10682/138411417-dd12a831-bacc-4b05-a33d-47d3f6b45483.png>
 
 ## Author
 
-Yusuke Wada <http://github.com/yusukebe>
+Augustin Paul Ayama
+<https://github.com/MarketingIQ>
 
 ## License
 
