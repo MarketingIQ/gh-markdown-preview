@@ -75,8 +75,9 @@ Available options:
 
 ## Author
 
-Yusuke Wada <http://github.com/yusukebe>
+Augustin Paul Ayama <https://github.com/MarketingIQ>
 
 ## License
 
 Distributed under the MIT License.
+And DM Academy
