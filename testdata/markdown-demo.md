@@ -43,9 +43,9 @@ _This is italic text_
 
 [link with title][2]
 
-This is [an example](http://example.com/ "Title") inline link.
+This is [an exadmacademy](http://dmacademy.com/ "Title") inline link.
 
-[This link](http://example.net/) has no title attribute.
+[This link](http://dmacademy.net/) has no title attribute.
 
 ------------------------------------------
 
